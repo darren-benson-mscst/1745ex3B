@@ -1,1 +1,0 @@
-## COMC2740 Exercise 1A
